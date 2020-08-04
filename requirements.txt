@@ -11,6 +11,6 @@ Werkzeug==0.14.1
 WTForms==2.2.1
 flask_sqlalchemy==2.4.4 
 datetime 
-flask_mail 
+Flask-Mail
 os
 math
