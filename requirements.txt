@@ -9,3 +9,9 @@ vaderSentiment==3.2.1
 six==1.11.0
 Werkzeug==0.14.1
 WTForms==2.2.1
+flask_sqlalchemy=2.4.4 
+datetime=2 0.7.5 
+flask_mail= 0.9.1 
+json
+os
+math
