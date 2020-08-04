@@ -1,0 +1,21 @@
+{
+    "params":{
+        "local-server":"True",
+        "local_uri":"mysql://root:@localhost/datablog",
+        "prod_uri":"mysql://root:@localhost/datablog",
+        "fb_url": "https://facebook.com",
+        "tw_url": "https://twitter.com",
+        "git_url": "https://github.com",
+        "blog_name": "Data Blog",
+        "sub_name": "Blog Liked By Data Scientist",
+        "gmail-user": "vishalsharma9785812846@gmail.com",
+        "gmail-pass": "vishal@2001",
+        "no_of_post": 3,
+        "login_image": "logo.png",
+        "admin_user": "vishalsharma118",
+        "admin_password": "vishal2001",
+        "upload_location": "D:\\Web\\Flask\\Blog\\static\\img",
+        "About": "This is official data Science Blog website.I am Vishal Shrama,Expert in Data Science And Python Development Flask Development.you can follow me on social media."
+
+    }
+}
