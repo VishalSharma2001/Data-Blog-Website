@@ -12,6 +12,5 @@ WTForms==2.2.1
 flask_sqlalchemy==2.4.4 
 datetime 
 flask_mail 
-json
 os
 math
